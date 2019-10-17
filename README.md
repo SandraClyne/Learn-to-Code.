@@ -1,2 +1,2 @@
 # Learn-to-Code.
-Resources, examples, exercises, etc. for Java, C++, and Python
+This file will contain resources, examples, exercises, etc. for Java, C++, and Python
